@@ -1,0 +1,83 @@
+
+/* Estilização NAV */
+
+header{
+    background-color: #fccd32;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    z-index: 1000;
+
+    
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    
+  }
+
+/* Estilização Body*/ 
+
+body{
+    background-color: #EDCFB8 ;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização da Seção Home*/
+
+#home{
+    background-color: rgb(223, 18, 18);
+}
+#Logo{
+    max-width: 5000px;
+    margin: auto;
+    background-color: brown;
+    display: flex;
+    position: relative;
+}
+
+
+
+/* Estilização da Seção  Sobre */
+
+#sobre{
+    background-color: rgb(172, 109, 16);
+}
+#texto_sobre{
+    padding: 0px;
+  text-align: center;
+}
+
+/* Estilização da Seção Realização*/
+
+#realizacao{
+    background-color: rgb(203, 255, 196);
+}
+
+/* Estilização da Seção Contato*/
+
+#contato{
+    background-color: blueviolet;
+}
+
+.linkedin{
+max-width: 80px;
+max-height: 80px;
+}
+
+.git{
+max-width: 80px;
+max-height: 80px;
+}
+#redes_sociais{
+    display: inline-flexbox;
+}
+
