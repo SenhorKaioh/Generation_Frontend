@@ -36,6 +36,12 @@ body{
 #home{
     background-color: rgb(223, 18, 18);
 }
+
+#homeTexto{
+ margin: 30px;
+ text-align: justify;
+}
+
 #Logo{
     max-width: 5000px;
     margin: auto;
