@@ -1,0 +1,44 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+   
+}
+
+#imagem{
+   width: 20vh;
+   border-radius: 8%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex_input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.flex_inpu2 div{
+    display: flex;
+  justify-content: center;
+    margin-top: 10px;
+}
+
+.flex_input button{
+  margin: 5px;
+}
